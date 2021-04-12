@@ -1,0 +1,6 @@
+./.idea
+*.iml
+
+# Project exclude paths
+/Module/target/
+/SpringModule/target/
